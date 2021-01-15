@@ -1,0 +1,2 @@
+DegreeOfParallelism = 4
+LogFilePath = logs.txt
